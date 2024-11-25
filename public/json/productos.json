@@ -1,0 +1,19 @@
+[
+  { "id": 1, "nombre": "Teclado Mecánico RGB", "precio": 389.92, "imagen": "teclado_mecanico.jpg" },
+  { "id": 2, "nombre": "Mouse Gamer Inalámbrico", "precio": 233.92, "imagen": "mouse_gamer.jpg" },
+  { "id": 3, "nombre": "Auriculares con Cancelación de Ruido", "precio": 701.92, "imagen": "auriculares_ruido.jpg" },
+  { "id": 4, "nombre": "Monitor 4K UHD de 27 Pulgadas", "precio": 2339.92, "imagen": "monitor_4k.jpg" },
+  { "id": 5, "nombre": "Base de Carga Inalámbrica para Teléfonos", "precio": 155.92, "imagen": "base_carga.jpg" },
+  { "id": 6, "nombre": "Silla Gamer Ergonómica", "precio": 1247.92, "imagen": "silla_gamer.jpg" },
+  { "id": 7, "nombre": "Cámara Web Full HD", "precio": 311.92, "imagen": "camara_web.jpg" },
+  { "id": 8, "nombre": "Lámpara LED de Escritorio Inteligente", "precio": 194.92, "imagen": "lampara_led.jpg" },
+  { "id": 9, "nombre": "Disco Duro Externo 1TB", "precio": 467.92, "imagen": "disco_duro_externo.jpg" },
+  { "id": 10, "nombre": "Micrófono Condensador para Streaming", "precio": 545.92, "imagen": "microfono_streaming.jpg" },
+  { "id": 11, "nombre": "Router WiFi de Alta Velocidad", "precio": 623.92, "imagen": "router_wifi.jpg" },
+  { "id": 12, "nombre": "Controlador MIDI para Producción Musical", "precio": 1013.92, "imagen": "controlador_midi.jpg" },
+  { "id": 13, "nombre": "Smartwatch Deportivo", "precio": 779.92, "imagen": "smartwatch_deportivo.jpg" },
+  { "id": 14, "nombre": "Altavoz Bluetooth Portátil", "precio": 467.92, "imagen": "altavoz_bluetooth.jpg" },
+  { "id": 15, "nombre": "Tablet Android 10'' 64GB", "precio": 1793.92, "imagen": "tablet_android.jpg" },
+  { "id": 16, "nombre": "Kit de Luces RGB para Escritorio", "precio": 311.92, "imagen": "luces_rgb_escritorio.jpg" }
+
+]

@@ -1,0 +1,19 @@
+<nav class="navbar navbar-expand-lg ">
+    <img [src]="'/img/logo.png'" width="120" height="50">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item">
+          <a class="nav-link text-white" aria-current="page" routerLink="/" >Catalogo <span class="sr-only">(current)</span></a>
+        </li>
+        
+      </ul>
+      <a class="new-link text-white" routerLink="/carrito">
+        <i class="fa fa-shopping-cart"></i>
+        (<span class="fw-bold">{{carritoService.cantidad()}}</span>)
+      </a>
+    </div>
+  </nav>
