@@ -23,4 +23,19 @@ export class CarritoListarComponent implements OnInit {
   getListCarrito() {
     this.listCarrito = this.carritoService.getCarrito();
   }
+
+  eliminarItem(index: number) {
+    this.carritoService.eliminar(index);
+    this.getListCarrito();
+  }
+
+
+  actualizar(item: Carrito, index: number) {
+    this.carritoService.actualizar(index, item.cantidad);
+  }
+
+  onKeyDow(event: any){
+    event.preventDefault();
+  }
+
 }
